@@ -5,6 +5,8 @@ Autores: Espino de Horta Joaquín Gustavo
          
 Emuador de Nintendo Entretainment System.
 
-El propósito de este proyecto es meramente educativo sin ánimo de lucro o desacreditar a los creadorea del entorno de emulación, su administrador o cualquiera de las ROM mostradas.          
+El propósito de este proyecto es meramente educativo sin ánimo de lucro o desacreditar a los creadorea del entorno de emulación, su administrador o cualquiera de las ROM mostradas.
+
+Enlace de video demostrativo: https://youtu.be/sIH-vTYyf4o
 
          
