@@ -3,3 +3,8 @@ Proyecto final de Fundamentos de Sistemas Embebidos - Consola Retro de Videojueg
 Autores: Espino de Horta Joaquín Gustavo
          Gómez Serna Carlos David
          
+Emuador de Nintendo Entretainment System.
+
+El propósito de este proyecto es meramente educativo sin ánimo de lucro o desacreditar a los creadorea del entorno de emulación, su administrador o cualquiera de las ROM mostradas.          
+
+         
